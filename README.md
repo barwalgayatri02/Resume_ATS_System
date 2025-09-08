@@ -10,7 +10,7 @@ Recruiters and hiring managers receive hundreds of resumes for every job opening
 
 - Generate a profile summary and final thoughts to guide candidates in improving their applications.
 
-- Offer an HR-style evaluation that highlights strengths and weaknesses from a recruiter’s perspective.
+- Offer an HR-style evaluation that highlights strengths and weaknesses from a recruiter’s perspective
 
 - This project, Smart ATS Resume Tracker, addresses this gap by combining ATS-style evaluation with human-resource insights, powered by Google Gemini AI.
 
